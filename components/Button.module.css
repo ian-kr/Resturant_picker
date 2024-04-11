@@ -14,7 +14,7 @@ button.btn {
 
 button.btn {
   padding: 0.65em 1em;
-  background: #0076ff;
+  background: #ff4040;
   color: #fff;
   border: none;
   cursor: pointer;
@@ -22,11 +22,11 @@ button.btn {
 }
 button.btn:focus {
   outline: 0;
-  border-color: #0076ff;
+  border-color: #ff4040;
 }
 button.btn:hover {
-  background: rgba(0, 118, 255, 0.8);
+  background: #ff4040;
 }
 button.btn:focus {
-  box-shadow: 0 0 0 2px rgba(0, 118, 255, 0.5);
+  box-shadow: 0 0 0 2px #ff4040;
 }
